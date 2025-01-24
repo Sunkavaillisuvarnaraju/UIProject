@@ -1,0 +1,22 @@
+{
+  "name": "uiproject",
+  "version": "1.0.0",
+  "description": "UI Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sunkavaillisuvarnaraju/UIProject.git"
+  },
+  "keywords": [
+    "netflex"
+  ],
+  "author": "Raju",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sunkavaillisuvarnaraju/UIProject/issues"
+  },
+  "homepage": "https://github.com/Sunkavaillisuvarnaraju/UIProject#readme"
+}
